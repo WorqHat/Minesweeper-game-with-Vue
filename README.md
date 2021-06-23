@@ -1,6 +1,8 @@
-# minesweeper-vue
+# Build your own Minesweeper game with Vue
 
-## Project setup
+## Build a clone of the classic game with Vue, Vuex and Vuetify!
+
+### Project setup
 ```
 yarn install
 ```
